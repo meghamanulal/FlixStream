@@ -5,6 +5,9 @@ Author: TemplatesOnWeb
 Author URI: https://www.templateonweb.com/
 Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
 */
+body{
+    font-family: League Spartan;
+}
 /*********************center_home****************/
 .carousel-caption{
 text-align:left;
